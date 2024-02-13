@@ -1,0 +1,27 @@
+[
+  {
+    "listing": "/people/munoz-miguel/index.html",
+    "items": [
+      "/publications/2000_001_Example/index.html"
+    ]
+  },
+  {
+    "listing": "/people/mendoza-irene/index.html",
+    "items": [
+      "/publications/2000_001_Example/index.html"
+    ]
+  },
+  {
+    "listing": "/people/index.html",
+    "items": [
+      "/people/mendoza-irene/index.html",
+      "/people/munoz-miguel/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/2000_001_Example/index.html"
+    ]
+  }
+]
