@@ -1,0 +1,16 @@
+{
+  "listingMap": {
+    "people/index.qmd": [
+      "B3049D40"
+    ],
+    "people/mendoza-irene/index.qmd": [
+      "../../../publications/**/*.qmd"
+    ],
+    "publications/index.qmd": [
+      "../publications/**/*.qmd"
+    ],
+    "people/munoz-miguel/index.qmd": [
+      "../../../publications/**/*.qmd"
+    ]
+  }
+}

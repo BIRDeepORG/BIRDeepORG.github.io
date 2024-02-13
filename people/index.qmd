@@ -1,0 +1,30 @@
+---
+title: "Meet the Group"
+listing: 
+    - id: pi
+      include: 
+        people_group: "pi"
+      exclude: 
+        external: true
+      template: ../_ejs/people-box.ejs
+      type: grid
+      fields: [title, subtitle, image, education]
+    - id: other
+      include: 
+        people_group: "other"
+      exclude: 
+        external: true
+      template: ../_ejs/people-box.ejs
+      type: grid
+      fields: [tile, subtirle, image, education]
+---
+
+## Principal Investigator
+
+::: {#pi}
+:::
+
+## Other members
+
+::: {#other}
+:::

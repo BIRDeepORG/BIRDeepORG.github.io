@@ -1,0 +1,49 @@
+---
+title: &TITLE Miguel A. Muñoz Mohedano
+last: Muñoz
+first: Miguel
+subtitle: "Research Scientist"
+people_group: other
+email: "ma.mohedano@ebd.csic.es"
+education:
+  - PhD. Computer Sciences
+description: "Descripcion Miguel"
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: ../../../publications/**/*.qmd
+  sort: "pub_number desc"
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:ma.mohedano@ebd.csic.es 
+---
+
+<hr>
+
+
+
+
+Texto sobre Miguel
+
+
+## Education
+{{< meta education >}}
+
+<br>
+
+## {{< meta first >}}'s Publications within the project
+
+:::{#pubs}
+:::

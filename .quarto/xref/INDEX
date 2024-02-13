@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "eaff2b6f"
+  },
+  "about.qmd": {
+    "about.html": "3da69b89"
+  },
+  "members.qmd": {
+    "members.html": "3217a2ac"
+  },
+  "people/index.qmd": {
+    "index.html": "152d9d0a"
+  },
+  "people/Irene Mendoza/irene.qmd": {
+    "irene.html": "1e843b2d"
+  },
+  "publications/index.qmd": {
+    "index.html": "80bea331"
+  },
+  "people/mendoza-irene/index.qmd": {
+    "index.html": "4fcf1aa9"
+  },
+  "people/munoz-miguel/index.qmd": {
+    "index.html": "91105300"
+  },
+  "publications/2000_001_Example/index.qmd": {
+    "index.html": "f84cd12a"
+  }
+}

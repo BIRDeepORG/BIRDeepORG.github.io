@@ -1,0 +1,15 @@
+---
+title: "Ejemplo de publicación"
+date: 2000-01-01
+author: ["Irene Mendoza", "Miguel A. Muñoz Mohedano"]
+publication: "Ecology Letters, **275**, _72-82_ (2000)."
+categories:
+    - "test"
+url_source: https://www.sciencedirect.com/
+url_preprint: 
+journ: "Ecology Letters"
+issue: 275
+page: 72-82
+year: 2000
+pub_number: 1
+---

@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  favicon: "images/IMG_2297.PNG"
+  navbar:
+    logo: "images/IMG_2297.PNG"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: people/index.qmd
+        text: People
+      - href: publications/index.qmd
+        text: Publications
+    tools:
+      - icon: github
+        menu:
+        - text: Repositorios
+          url: https://github.com/BIRDeepORG
+  back-to-top-navigation: true
+  page-footer: "This is a project of the Doñana Biological Station in collaboration with U-Tad"
+
+format:
+  html:
+    theme: 
+      - styles/custom.scss
+      - cosmo
+    # css: styles.css
+    toc: true
+    resources: 
+      - images
+
+
+

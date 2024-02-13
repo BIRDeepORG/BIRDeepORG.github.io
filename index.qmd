@@ -1,0 +1,30 @@
+---
+title: "BIRDeep"
+subtitle: "Passive monitoring through bird song in Doñana National Park"
+page-layout: full
+---
+
+::::{.cmm-background}
+::: {.content-container}
+::: {.top-story }
+
+
+::: grid
+::: {.g-col-12 .g-col-lg-4 .top-story-text style="display: inline-block; justify-content: center; align-items: center; height: 50vh; margin-top:30px;"}
+
+Este es un proyecto de monitorización pasiva de aves basado en el registro y análisis de cantos en el parque nacional de Doñana
+
+:::
+:::
+
+
+
+:::
+:::
+::::
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit.
+
+Sed non urna. Donec et ante. Phasellus eu ligula. Vestibulum sit amet purus. Vivamus hendrerit, dolor at aliquet laoreet, mauris turpis porttitor velit, faucibus interdum tellus libero ac justo. Vivamus non quam. In suscipit faucibus urna.
+
+Aliquam lacinia metus ut elit. Donec nunc nunc, pretium vel metus eget, condimentum tempor ipsum. Etiam vel arcu in velit sollicitudin laoreet. Ut nec libero nec ligula semper dictum. Vivamus sit amet risus vel justo vestibulum facilisis ut et est. Suspendisse scelerisque justo augue, ac fermentum ligula laoreet vitae. Integer sit amet velit sapien. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
